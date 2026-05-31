@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configcalculate",
+        "uuid": 10949720,
+        "checksum": "w4b7ha"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
